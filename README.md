@@ -203,4 +203,10 @@ For a stronger efficiency claim, verify the force path and multi-point torque ca
 
 
 ## Project files
-The source code, original test data, photos, and STEP files are not yet uploaded to this repository.
+
+- [Python source, dashboard, installer, and software tests](motor_lab/)
+- [Motor holder STEP](cad/motor-holder.step)
+- [Torque model STEP](cad/torque.step)
+- [Recovered torque STEP (alternate export)](cad/torque-recovered.step)
+
+The original test data and photos are not included in the repository yet.
